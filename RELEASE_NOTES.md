@@ -2,6 +2,8 @@
 
 Initial AQDS public-review release.
 
+Permanent record: https://doi.org/10.5281/zenodo.22746711
+
 ## Included
 
 - the canonical paper in PDF and Markdown;

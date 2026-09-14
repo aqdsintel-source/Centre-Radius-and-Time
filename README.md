@@ -85,7 +85,7 @@ not verification of the complete source proof or the physical-time hypothesis.
 ## Publication Record
 
 - GitHub: https://github.com/aqdsintel-source/Centre-Radius-and-Time
-- Zenodo DOI: pending initial archival deposit
+- Zenodo: https://doi.org/10.5281/zenodo.22746711
 
 ## Licensing
 
