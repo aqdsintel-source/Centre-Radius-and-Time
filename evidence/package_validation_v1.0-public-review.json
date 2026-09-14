@@ -1,0 +1,43 @@
+{
+  "schema_version": 2,
+  "paper_sha256": "F28B902520462DF0F7E40A58220202E8ABAD89DCFE7B3E99B9703BB3C775C3E8",
+  "docx_sha256": "3BD0D864BEB72CAB0DAEE7679858D74261801AFB39C5307DF647EE09492DB47A",
+  "pdf_sha256": "121F64875FB7867BC3A29DEEDCBEB83231D05F95C198A1457F6799A5A2118EA8",
+  "registered_headings": [
+    "1. David's Original Question and Centre-Outward Time Proposition",
+    "2. The Published Navier-Stokes Equation and AI Methodology",
+    "3. Underlying Assumptions, Including Scalar Ordered Time",
+    "4. Complete Mathematical Derivation: Radius, Pi, Area, Circumference, Rotation, Velocity, Pressure and Force",
+    "5. The Identified Mathematical Relationship",
+    "6. Evidence Boundary: Published Mathematics, Derived Mathematics and Research Hypothesis",
+    "7. Transparent Comparison Methodology",
+    "8. Sources, Evidence Hashes and AQDS GitHub Record",
+    "9. Attribution and Contributions"
+  ],
+  "math_blocks": 100,
+  "figures": 3,
+  "checks": {
+    "nine_headings_exact": true,
+    "each_heading_has_math": true,
+    "all_fences_balanced": true,
+    "all_figure_files_exist": true,
+    "symbolic_checks_passed": true,
+    "navier_stokes_dimensions_match": true,
+    "docx_built": true,
+    "builder_accounted_for_all_equations": true,
+    "builder_accounted_for_all_figures": true,
+    "no_equation_render_fallbacks": true,
+    "pdf_built": true,
+    "pdf_hash_matches_build_report": true,
+    "pdf_accounted_for_all_equations": true,
+    "pdf_all_pages_rasterised": true,
+    "pdf_layout_audit_passed": true,
+    "docx_accessibility_audit_clear": true,
+    "accountable_author_present": true,
+    "aqds_contact_present": true,
+    "not_peer_reviewed_boundary_present": true,
+    "physical_time_hypothesis_boundary_present": true
+  },
+  "all_checks_passed": true,
+  "boundary": "Structural, algebraic, and artifact validation only; no peer review or physical validation."
+}

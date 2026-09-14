@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Please cite this public-review research note using the metadata below."
+type: report
+title: "Centre, Radius and Time: A Comparative Mathematical Process Across Circular Geometry, Navier-Stokes Dynamics and OpenAI's Published Blow-Up Construction"
+authors:
+  - family-names: Penny
+    given-names: David
+    email: aqds.intel@gmail.com
+version: "1.0.0-public-review"
+date-released: 2026-09-14
+repository-code: "https://github.com/aqdsintel-source/Centre-Radius-and-Time"
+license: CC-BY-4.0
+keywords:
+  - Navier-Stokes
+  - circular geometry
+  - similarity variables
+  - centre-outward time
+  - AI-assisted mathematics
+  - AI governance
+  - research integrity
+abstract: >-
+  A public-review mathematical comparison connecting circular geometry,
+  scalar remaining time, similarity radius, rotation, velocity and
+  pressure-force scaling, with explicit evidence classes and governance at the
+  point where AI-assisted output is treated as possible knowledge.

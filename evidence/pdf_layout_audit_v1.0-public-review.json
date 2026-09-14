@@ -1,0 +1,258 @@
+{
+  "pdf": "paper\\Centre Radius and Time - Comparative Mathematical Process v1.0-public-review.pdf",
+  "page_count": 28,
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Centre, Radius and Time",
+    "author": "David Penny",
+    "subject": "Comparative mathematical process across circular geometry and Navier-Stokes dynamics",
+    "keywords": "",
+    "creator": "David Penny with Helios AI analytical collaboration under AQDS governance",
+    "producer": "ReportLab PDF Library - (opensource)",
+    "creationDate": "D:20260914191554+10'00'",
+    "modDate": "D:20260914191554+10'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "pages": [
+    {
+      "page": 1,
+      "text_characters": 840,
+      "text_blocks": 12,
+      "images": 0,
+      "drawings": 13,
+      "raster_exists": true
+    },
+    {
+      "page": 2,
+      "text_characters": 692,
+      "text_blocks": 14,
+      "images": 0,
+      "drawings": 2,
+      "raster_exists": true
+    },
+    {
+      "page": 3,
+      "text_characters": 2093,
+      "text_blocks": 10,
+      "images": 3,
+      "drawings": 2,
+      "raster_exists": true
+    },
+    {
+      "page": 4,
+      "text_characters": 1090,
+      "text_blocks": 12,
+      "images": 1,
+      "drawings": 3,
+      "raster_exists": true
+    },
+    {
+      "page": 5,
+      "text_characters": 1601,
+      "text_blocks": 16,
+      "images": 3,
+      "drawings": 1,
+      "raster_exists": true
+    },
+    {
+      "page": 6,
+      "text_characters": 170,
+      "text_blocks": 3,
+      "images": 1,
+      "drawings": 1,
+      "raster_exists": true
+    },
+    {
+      "page": 7,
+      "text_characters": 1393,
+      "text_blocks": 18,
+      "images": 4,
+      "drawings": 2,
+      "raster_exists": true
+    },
+    {
+      "page": 8,
+      "text_characters": 1740,
+      "text_blocks": 20,
+      "images": 3,
+      "drawings": 1,
+      "raster_exists": true
+    },
+    {
+      "page": 9,
+      "text_characters": 1593,
+      "text_blocks": 16,
+      "images": 6,
+      "drawings": 1,
+      "raster_exists": true
+    },
+    {
+      "page": 10,
+      "text_characters": 2104,
+      "text_blocks": 23,
+      "images": 1,
+      "drawings": 20,
+      "raster_exists": true
+    },
+    {
+      "page": 11,
+      "text_characters": 1207,
+      "text_blocks": 14,
+      "images": 6,
+      "drawings": 1,
+      "raster_exists": true
+    },
+    {
+      "page": 12,
+      "text_characters": 782,
+      "text_blocks": 13,
+      "images": 6,
+      "drawings": 2,
+      "raster_exists": true
+    },
+    {
+      "page": 13,
+      "text_characters": 596,
+      "text_blocks": 11,
+      "images": 7,
+      "drawings": 1,
+      "raster_exists": true
+    },
+    {
+      "page": 14,
+      "text_characters": 847,
+      "text_blocks": 12,
+      "images": 6,
+      "drawings": 1,
+      "raster_exists": true
+    },
+    {
+      "page": 15,
+      "text_characters": 744,
+      "text_blocks": 12,
+      "images": 9,
+      "drawings": 1,
+      "raster_exists": true
+    },
+    {
+      "page": 16,
+      "text_characters": 816,
+      "text_blocks": 18,
+      "images": 7,
+      "drawings": 1,
+      "raster_exists": true
+    },
+    {
+      "page": 17,
+      "text_characters": 592,
+      "text_blocks": 9,
+      "images": 4,
+      "drawings": 1,
+      "raster_exists": true
+    },
+    {
+      "page": 18,
+      "text_characters": 333,
+      "text_blocks": 6,
+      "images": 2,
+      "drawings": 2,
+      "raster_exists": true
+    },
+    {
+      "page": 19,
+      "text_characters": 613,
+      "text_blocks": 9,
+      "images": 4,
+      "drawings": 1,
+      "raster_exists": true
+    },
+    {
+      "page": 20,
+      "text_characters": 927,
+      "text_blocks": 13,
+      "images": 7,
+      "drawings": 1,
+      "raster_exists": true
+    },
+    {
+      "page": 21,
+      "text_characters": 1916,
+      "text_blocks": 24,
+      "images": 4,
+      "drawings": 14,
+      "raster_exists": true
+    },
+    {
+      "page": 22,
+      "text_characters": 1441,
+      "text_blocks": 22,
+      "images": 5,
+      "drawings": 1,
+      "raster_exists": true
+    },
+    {
+      "page": 23,
+      "text_characters": 1436,
+      "text_blocks": 30,
+      "images": 1,
+      "drawings": 2,
+      "raster_exists": true
+    },
+    {
+      "page": 24,
+      "text_characters": 1120,
+      "text_blocks": 17,
+      "images": 6,
+      "drawings": 1,
+      "raster_exists": true
+    },
+    {
+      "page": 25,
+      "text_characters": 2275,
+      "text_blocks": 23,
+      "images": 0,
+      "drawings": 12,
+      "raster_exists": true
+    },
+    {
+      "page": 26,
+      "text_characters": 1613,
+      "text_blocks": 24,
+      "images": 3,
+      "drawings": 2,
+      "raster_exists": true
+    },
+    {
+      "page": 27,
+      "text_characters": 2892,
+      "text_blocks": 10,
+      "images": 3,
+      "drawings": 1,
+      "raster_exists": true
+    },
+    {
+      "page": 28,
+      "text_characters": 466,
+      "text_blocks": 4,
+      "images": 1,
+      "drawings": 1,
+      "raster_exists": true
+    }
+  ],
+  "overflow": [],
+  "nearly_blank_pages": [],
+  "replacement_glyph_pages": [],
+  "checks": {
+    "all_pages_rasterised": true,
+    "no_out_of_page_blocks": true,
+    "no_nearly_blank_pages": true,
+    "no_replacement_glyphs": true,
+    "all_nine_section_titles_present": true,
+    "title_metadata_present": true,
+    "human_author_metadata_present": true,
+    "public_review_boundary_present": true
+  },
+  "all_checks_passed": true,
+  "boundary": "Automated layout audit supplements but does not replace visual page inspection."
+}

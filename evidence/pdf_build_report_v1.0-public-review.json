@@ -1,0 +1,12 @@
+{
+  "source": "paper\\Centre Radius and Time - Comparative Mathematical Process v1.0-public-review.md",
+  "output": "paper\\Centre Radius and Time - Comparative Mathematical Process v1.0-public-review.pdf",
+  "output_bytes": 1421976,
+  "output_sha256": "121F64875FB7867BC3A29DEEDCBEB83231D05F95C198A1457F6799A5A2118EA8",
+  "page_count": 28,
+  "equation_count": 100,
+  "render_directory": "qa\\pdf-render-v1.0-public-review",
+  "rendered_page_count": 28,
+  "renderer": "ReportLab 4.4.10; PyMuPDF 1.27.2.3 raster inspection copies",
+  "boundary": "Layout rendering does not establish peer review or physical validity."
+}

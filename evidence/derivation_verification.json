@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "generated_date": "2026-09-14",
+  "engine": "SymPy 1.14.0",
+  "assumptions": {
+    "tau": "positive remaining-time parameter",
+    "h": "positive; OpenAI paper requires 0 < h < 1/100",
+    "k_r_k_u_k_z": "positive representative scaling constants",
+    "scope": "algebraic consequences only; no physical-time ontology is tested"
+  },
+  "checks": {
+    "period_from_circumference": "0",
+    "period_from_area_and_angular_momentum": "0",
+    "centripetal_acceleration_from_period": "0",
+    "similarity_area_identity": "0",
+    "area_time_exponent": "0",
+    "period_time_exponent": "0",
+    "acceleration_time_exponent": "0",
+    "angular_momentum_time_exponent": "0",
+    "volume_time_exponent": "0",
+    "energy_time_exponent": "0"
+  },
+  "all_symbolic_checks_zero": true,
+  "dimensions": {
+    "basis": [
+      "length exponent",
+      "time exponent"
+    ],
+    "terms": {
+      "partial_t_u": [
+        1,
+        -2
+      ],
+      "u_dot_grad_u": [
+        1,
+        -2
+      ],
+      "nu_laplacian_u": [
+        1,
+        -2
+      ],
+      "gradient_kinematic_pressure": [
+        1,
+        -2
+      ],
+      "force_per_unit_mass": [
+        1,
+        -2
+      ],
+      "angular_momentum_per_unit_mass": [
+        2,
+        -1
+      ],
+      "centripetal_acceleration": [
+        1,
+        -2
+      ]
+    },
+    "navier_stokes_acceleration_terms_match": true
+  },
+  "representative_sample": {
+    "h": "1/200",
+    "k_r": 1,
+    "k_u": 1,
+    "k_z": 1,
+    "rows": [
+      {
+        "tau": 0.1,
+        "radius": 0.31622776601683794,
+        "area": 0.3141592653589793,
+        "period": 0.6211262279715389,
+        "velocity": 3.198895109691398,
+        "acceleration": 32.359365692962825,
+        "energy_scale": 0.5141855611261681
+      },
+      {
+        "tau": 0.01,
+        "radius": 0.1,
+        "area": 0.031415926535897934,
+        "period": 0.06140162548338561,
+        "velocity": 10.232929922807541,
+        "acceleration": 1047.1285480508996,
+        "energy_scale": 0.16831385887570519
+      },
+      {
+        "tau": 0.001,
+        "radius": 0.03162277660168379,
+        "area": 0.0031415926535897933,
+        "period": 0.00606987668885672,
+        "velocity": 32.73406948788382,
+        "acceleration": 33884.41561392025,
+        "energy_scale": 0.05509597552211204
+      }
+    ]
+  },
+  "expressions": {
+    "radius": "k_r*sqrt(tau)",
+    "azimuthal_velocity": "k_u*tau**(-h - 1/2)",
+    "circumference": "2*pi*k_r*sqrt(tau)",
+    "area": "pi*k_r**2*tau",
+    "angular_speed": "k_u*tau**(-h - 1)/k_r",
+    "rotational_period": "2*pi*k_r*tau**(h + 1)/k_u",
+    "centripetal_acceleration": "k_u**2*tau**(-2*h - 3/2)/k_r",
+    "angular_momentum": "k_r*k_u/tau**h",
+    "volume_scale": "pi*k_r**2*k_z*tau**(3/2 - h)",
+    "energy_scale": "pi*k_r**2*k_u**2*k_z*tau**(1/2 - 3*h)/2",
+    "similarity_area": "2*pi*X*q"
+  },
+  "expression_set_sha256": "A050DF973156ED148969A54CCE1CAC3CB5D050C3787A839F893DD8ED9EB1A7FE"
+}

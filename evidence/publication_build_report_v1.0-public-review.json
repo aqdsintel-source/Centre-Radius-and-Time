@@ -1,0 +1,641 @@
+{
+  "source": "paper\\Centre Radius and Time - Comparative Mathematical Process v1.0-public-review.md",
+  "output": "paper\\Centre Radius and Time - Comparative Mathematical Process v1.0-public-review.docx",
+  "source_h1_headings": [
+    "Abstract",
+    "1. David's Original Question and Centre-Outward Time Proposition",
+    "2. The Published Navier-Stokes Equation and AI Methodology",
+    "3. Underlying Assumptions, Including Scalar Ordered Time",
+    "4. Complete Mathematical Derivation: Radius, Pi, Area, Circumference, Rotation, Velocity, Pressure and Force",
+    "5. The Identified Mathematical Relationship",
+    "6. Evidence Boundary: Published Mathematics, Derived Mathematics and Research Hypothesis",
+    "7. Transparent Comparison Methodology",
+    "8. Sources, Evidence Hashes and AQDS GitHub Record",
+    "9. Attribution and Contributions"
+  ],
+  "headings": 63,
+  "paragraphs": 158,
+  "lists": 77,
+  "tables": 3,
+  "code_blocks": 1,
+  "equations": [
+    {
+      "index": 1,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-001.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 2,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-002.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 3,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-003.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 4,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-004.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 5,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-005.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 6,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-006.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 7,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-007.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 8,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-008.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 9,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-009.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 10,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-010.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 11,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-011.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 12,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-012.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 13,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-013.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 14,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-014.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 15,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-015.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 16,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-016.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 17,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-017.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 18,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-018.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 19,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-019.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 20,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-020.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 21,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-021.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 22,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-022.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 23,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-023.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 24,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-024.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 25,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-025.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 26,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-026.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 27,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-027.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 28,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-028.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 29,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-029.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 30,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-030.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 31,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-031.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 32,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-032.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 33,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-033.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 34,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-034.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 35,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-035.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 36,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-036.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 37,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-037.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 38,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-038.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 39,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-039.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 40,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-040.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 41,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-041.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 42,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-042.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 43,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-043.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 44,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-044.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 45,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-045.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 46,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-046.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 47,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-047.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 48,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-048.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 49,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-049.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 50,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-050.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 51,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-051.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 52,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-052.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 53,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-053.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 54,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-054.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 55,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-055.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 56,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-056.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 57,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-057.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 58,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-058.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 59,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-059.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 60,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-060.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 61,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-061.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 62,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-062.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 63,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-063.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 64,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-064.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 65,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-065.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 66,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-066.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 67,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-067.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 68,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-068.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 69,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-069.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 70,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-070.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 71,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-071.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 72,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-072.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 73,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-073.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 74,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-074.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 75,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-075.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 76,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-076.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 77,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-077.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 78,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-078.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 79,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-079.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 80,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-080.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 81,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-081.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 82,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-082.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 83,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-083.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 84,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-084.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 85,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-085.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 86,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-086.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 87,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-087.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 88,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-088.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 89,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-089.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 90,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-090.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 91,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-091.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 92,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-092.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 93,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-093.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 94,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-094.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 95,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-095.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 96,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-096.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 97,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-097.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 98,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-098.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 99,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-099.png",
+      "fallback": false,
+      "error": null
+    },
+    {
+      "index": 100,
+      "path": "paper\\_generated_equations_v1.0-public-review\\equation-100.png",
+      "fallback": false,
+      "error": null
+    }
+  ],
+  "figures": [
+    {
+      "path": "figures\\figure-1-centre-radius-contact-map.png",
+      "caption": "Figure 1. Centre-radius contact map."
+    },
+    {
+      "path": "figures\\figure-2-spatial-centre-ring-geometry.png",
+      "caption": "Figure 2. Spatial centre-and-ring geometry used in the source construction."
+    },
+    {
+      "path": "figures\\figure-3-similarity-scaling.png",
+      "caption": "Figure 3. Scaling rates implied by the published exponents."
+    }
+  ],
+  "equation_count": 100,
+  "equation_fallback_count": 0,
+  "figure_count": 3,
+  "output_bytes": 1125730
+}

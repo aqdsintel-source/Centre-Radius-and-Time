@@ -1,0 +1,19 @@
+AQDS RESEARCH MATERIAL LICENCE
+
+Copyright (c) 2026 David Penny
+
+The paper, figures, and AQDS-authored evidence in this repository are licensed
+under the Creative Commons Attribution 4.0 International Licence (CC BY 4.0).
+
+Licence summary and legal code:
+https://creativecommons.org/licenses/by/4.0/
+
+Attribution should identify David Penny as the accountable human author, name
+the work "Centre, Radius and Time", and link to this repository or its Zenodo
+record when reasonably practicable.
+
+The original reproducibility scripts in the scripts directory are separately
+licensed under the MIT License in LICENSE-CODE.
+
+Third-party works are not included in this repository. Citations and links to
+third-party sources do not grant rights in those works.
