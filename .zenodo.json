@@ -1,0 +1,27 @@
+{
+  "title": "Centre, Radius and Time: A Comparative Mathematical Process Across Circular Geometry, Navier-Stokes Dynamics and OpenAI's Published Blow-Up Construction",
+  "description": "<p>An interdisciplinary public-review research note comparing circular geometry, Navier-Stokes similarity variables and OpenAI's published blow-up construction. It separates source mathematics, independently checked algebra, comparative interpretation and an unverified centre-outward time hypothesis.</p><p>This release does not claim a new Navier-Stokes proof, resolution of the unforced Clay Millennium problem, peer review, or physical validation of a theory of time.</p>",
+  "creators": [
+    {
+      "name": "Penny, David",
+      "affiliation": "AQDS"
+    }
+  ],
+  "keywords": [
+    "Navier-Stokes",
+    "circular geometry",
+    "similarity variables",
+    "centre-outward time",
+    "AI-assisted mathematics",
+    "AI governance",
+    "research integrity"
+  ],
+  "license": "other-open",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "publication_date": "2026-09-14",
+  "access_right": "open",
+  "version": "v1.0-public-review",
+  "language": "eng",
+  "notes": "Mixed licensing applies: CC BY 4.0 for the paper, figures and AQDS-authored evidence; MIT for the original scripts. Helios AI assistance is disclosed in the paper and repository but is not listed as a formal creator or contributor."
+}
